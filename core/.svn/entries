@@ -1,0 +1,28 @@
+8
+
+dir
+3
+svn://rp.inventit.dk/mads/8bit/corecode/core
+svn://rp.inventit.dk/mads/8bit
+
+
+
+2007-08-08T16:58:31.890500Z
+2
+8bit
+
+
+svn:special svn:externals svn:needs-lock
+
+core.pde
+file
+
+
+
+
+2007-08-08T16:57:26.000000Z
+fed6624b699005436688bcd56e83cd84
+2007-08-08T16:58:31.890500Z
+2
+8bit
+
